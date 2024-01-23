@@ -1,1 +1,2 @@
 the message
+new message
